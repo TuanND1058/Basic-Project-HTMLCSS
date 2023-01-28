@@ -9,3 +9,4 @@ HTML/CSS
 03-task-manager
 04-reviews
 05-navbar
+06-sidebar
