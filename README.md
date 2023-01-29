@@ -4,9 +4,10 @@
 
 HTML/CSS
 
-01-color-flipper
-02-counter
-03-task-manager
-04-reviews
-05-navbar
-06-sidebar
+1. color-flipper
+2. counter
+3. task-manager
+4. reviews
+5. navbar
+6. sidebar
+7. modal
